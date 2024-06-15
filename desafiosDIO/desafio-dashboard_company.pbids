@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"mysql","address":{"server":"desafio-dashboard.mysql.database.azure.com","database":"company"}},"options":{"ReturnSingleDatabase":true}}]}
